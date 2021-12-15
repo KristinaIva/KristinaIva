@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KristinaIva
+- 👋 Hi, My name is **Kristina**
 - 👀 I’m interested in Python, JS, QA
 - 🌱 I’m currently learning QA Automation
 - 💞️ I’m looking to collaborate on wonderful team.
