@@ -1,7 +1,7 @@
-- 👋 Hi, My name is **Kristina**
-- 👀 I’m interested in Python, JS, QA
-- 🌱 I’m currently learning QA Automation
-- 💞️ I’m looking to collaborate on wonderful team.
+## 👋 Hi, My name is **Kristina**
+- 👀 I’m interested in **Python, JS, QA**
+- 🌱 I’m currently learning **QA Automation**
+- 💞️ I’m looking to collaborate on **wonderful team**.
 - 📫 How to reach me https://www.linkedin.com/in/kristinaiva/.
 
 <!---
